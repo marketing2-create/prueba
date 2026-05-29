@@ -12,7 +12,7 @@
 </head>
 <body>
 
-    <iframe src="https://heyzine.com" allowfullscreen></iframe>
+    <iframe src="https://heyzine.com/flip-book/ca94101307.html" allowfullscreen></iframe>
 
 </body>
 </html>
